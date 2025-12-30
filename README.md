@@ -3,6 +3,10 @@
 This repository contains the code and notebooks for training and evaluating a **deep learning neural network to play a SnakeIO-style game**.  
 This project was completed as the **final project for my Neural Networks course**.
 
+<img width="1034" height="537" alt="dqn_snake_model" src="https://github.com/user-attachments/assets/8fca38b7-4d5f-4dea-b89f-7aa814689d6c" />
+
+
+
 ---
 
 ## 🚀 Project Overview
